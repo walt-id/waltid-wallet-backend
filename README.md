@@ -1,3 +1,5 @@
+## MOVED to the new repo here => https://github.com/walt-id/waltid-identity
+
 <div align="center">
  <h1>Wallet Kit</h1>
  <span>by </span><a href="https://walt.id">walt.id</a>
